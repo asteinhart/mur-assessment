@@ -1,5 +1,20 @@
 # Data Design Engineer Assessment
 
+## Set up 
+
+first install dependencies
+
+```bash
+npm install
+```
+
+then run the development server:
+
+```bash
+npm run dev
+```
+## Overview
+
 ### Tools Used:
 
 - Svelte
@@ -32,16 +47,9 @@
 - I opted to simply show all the free response questions as a list. With additional time, I would have liked to do some light cleaning on the text and use aI would have liked to implement a word cloud or some other visualization to show the most common words used in the responses with additional time
 - I also would spend more time on mobile development 
 
-## set up
+### Deign Draft Link
 
-first install dependencies
+[Figma Design Board](https://www.figma.com/design/zujlvbGnnkjapUKXVdCwFl/murmuration-assessment?node-id=0-1&p=f)
 
-```bash
-npm install
-```
 
-then run the development server:
 
-```bash
-npm run dev
-```
