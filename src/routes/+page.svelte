@@ -32,6 +32,9 @@
 		processTextData();
 	});
 
+	//------- HELPER FUNCTIONS -------
+
+	// passed to SidebarFilter component to update when filters change
 	function onFilterChange(type, value) {
 		currentFilters[type] = value;
 		applyFilters(currentFilters);

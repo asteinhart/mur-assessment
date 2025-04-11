@@ -1,10 +1,6 @@
-<script>
-	export let title = 'Steinhart';
-</script>
-
 <header class="header">
 	<div class="logo">
-		<h1>{title}</h1>
+		<h1>Steinhart</h1>
 	</div>
 	<div class="right-section">
 		<nav class="navigation">

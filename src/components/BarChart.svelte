@@ -12,6 +12,7 @@
 
 	let chart;
 
+	// rerender chart when the data changes
 	$effect(() => {
 		if (chart && data.length > 0) {
 			renderChart();
