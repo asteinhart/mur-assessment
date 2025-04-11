@@ -48,6 +48,6 @@ npm run dev
 - I opted to simply show all the free response questions as a list. With additional time, I would have liked to do some light cleaning on the text and use a word cloud or some other visualization to show the most common words used in the responses.
 - I also would spend more time on mobile development.
 
-### Deign Draft Link
+### Design Draft Link
 
 [Figma Design Board](https://www.figma.com/design/zujlvbGnnkjapUKXVdCwFl/murmuration-assessment?node-id=0-1&p=f)
