@@ -1,15 +1,13 @@
-
 <script>
 	import { onMount } from 'svelte';
 	import * as d3 from 'd3';
-	
 
 	let {
 		data = [],
 		title = '',
 		width = 400,
 		height = 200,
-		margin = { top: 40, right: 30, bottom: 30, left: 125 },
+		margin = { top: 40, right: 30, bottom: 30, left: 125 }
 	} = $props();
 
 	let chart;

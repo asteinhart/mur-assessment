@@ -42,9 +42,9 @@
 		gap: 1.5rem;
 	}
 
-  .navigation {
-    font-family: "Inter", sans-serif;
-  }
+	.navigation {
+		font-family: 'Inter', sans-serif;
+	}
 
 	.navigation ul {
 		display: flex;
@@ -68,7 +68,7 @@
 	}
 
 	.login-btn {
-    font-family: 'Inter', sans-serif;
+		font-family: 'Inter', sans-serif;
 		background-color: #2c3e50;
 		color: white;
 		border: none;

@@ -212,7 +212,7 @@
 		gap: 1.5rem;
 	}
 
-	.charts-column,
+	.chart-column,
 	.text-column {
 		padding-top: 0.5rem;
 		display: flex;
